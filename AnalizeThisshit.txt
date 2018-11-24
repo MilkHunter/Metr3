@@ -1,0 +1,28 @@
+bool Flag = true;
+void SomeFunc(int n)
+{
+	n++;
+}
+
+
+
+int ShitFunc(int *a)
+{
+	if (*a == 10)
+		return *a-1;
+	else 
+		return *a+1; 
+}
+
+
+int a;
+for (a = 0; a < 10; a++)
+{
+	int x = 0;
+	int a = 3;
+	a++;
+	char b = getc(stdin);
+	char *abc = "SomeStr";
+	printf("%s",abc);
+	return 0;
+}

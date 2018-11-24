@@ -1,0 +1,56 @@
+Flag
+refCount: 0
+Assign: TRUE
+Control: FALSE
+Inputed: FALSE
+OutPuted: FALSE
+
+n
+refCount: 1
+Assign: FALSE
+Control: FALSE
+Inputed: FALSE
+OutPuted: FALSE
+
+a
+refCount: 3
+Assign: FALSE
+Control: TRUE
+Inputed: FALSE
+OutPuted: FALSE
+
+a
+refCount: 3
+Assign: TRUE
+Control: TRUE
+Inputed: FALSE
+OutPuted: FALSE
+
+x
+refCount: 0
+Assign: TRUE
+Control: FALSE
+Inputed: FALSE
+OutPuted: FALSE
+
+a
+refCount: 1
+Assign: TRUE
+Control: FALSE
+Inputed: FALSE
+OutPuted: FALSE
+
+b
+refCount: 0
+Assign: TRUE
+Control: FALSE
+Inputed: FALSE
+OutPuted: FALSE
+
+abc
+refCount: 1
+Assign: TRUE
+Control: FALSE
+Inputed: FALSE
+OutPuted: TRUE
+

@@ -1,0 +1,10 @@
+return
+endl
+namespace
+std
+break
+continue
+stdin
+stdout
+true
+false

@@ -1,0 +1,12 @@
+cini
+couto
+printfo
+printf_so
+scanfi
+scanf_si
+getsi
+putso
+getci
+getchari
+getchi
+putco
